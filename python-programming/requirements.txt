@@ -2,5 +2,5 @@
 # deploy account's credentials. Dependabot (.github/dependabot.yml) proposes
 # updates.
 google-api-python-client==2.202.0
-google-auth==2.62.2
+google-auth==2.63.0
 pyfiglet==1.0.4
